@@ -15,4 +15,6 @@ Hello! This is my audio narrative for my spring 2022 digital media class. I have
 
 [whistle.aiff](https://freesound.org/people/patobottos/sounds/345800/) by patobottos is licensed under CC BY 3.0
 
+[05966 water surfacing splashes.wav](https://freesound.org/people/Robinhood76/sounds/320185/) by Robinhood76 is licensed under CC BY 4.0
+
 All voices are recorded by me
