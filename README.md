@@ -1,5 +1,5 @@
 # Introduction
-Hello! This is my audio narrative for my spring 2022 digital media class. I have worked my past four summers as a lifeguard, and I wanted to take this opportunity to bring my listeners with me to a day at work. This audio starts off with the lifeguards changing shifts, which we do every 15 minutes, and exchanging information so the new guard knows what to look out for. Once settled, the lifeguard then has to be aware of every noise and action that goes on around them.
+Hello! This is my audio narrative for my spring 2022 digital media class. I have worked my past four summers as a lifeguard, and I wanted to take this opportunity to bring my listeners with me to a day at work. This audio starts off with the lifeguards changing shifts, which we do every 15 minutes, and exchanging information so the new guard knows what to look out for. Once settled, the lifeguard then has to be aware of every noise and action that goes on around them. To listen, go to the "A-Day-in-my-Life(guard)" file, not the one that says "final." It won't go away.
 # Sources
 [Ambience, Outdoor Public Pool, A](https://freesound.org/people/InspectorJ/sounds/399793/) by Inspector J is licensed under CC BY 4.0
 
